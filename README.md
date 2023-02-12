@@ -1,1 +1,1 @@
-# -RAThings
+# RAThings
