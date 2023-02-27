@@ -11,6 +11,5 @@ The [retroachievements.org](https://retroachievements.org) website offers challe
 
 ## Links
 
-The [RetroAchievements documentation](https://docs.retroachievements.org/)
-
-My [User page](https://retroachievements.org/user/retromodern)
+- The [RetroAchievements documentation](https://docs.retroachievements.org/)
+- My [User page](https://retroachievements.org/user/retromodern)
